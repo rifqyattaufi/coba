@@ -1,0 +1,6 @@
+[submodule "src/smart-farming-api"]
+	path = src/smart-farming-api
+	url = https://github.com/rifqyattaufi/smart-farming-api.git
+[submodule "src/smart-farming-app"]
+	path = src/smart-farming-app
+	url = https://github.com/rifqyattaufi/smart-farming-app.git
